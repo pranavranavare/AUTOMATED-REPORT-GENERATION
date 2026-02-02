@@ -1,0 +1,7 @@
+Month,Product_A_Sales,Product_B_Sales
+Jan,120,100
+Feb,150,130
+Mar,170,160
+Apr,200,180
+May,220,210
+Jun,250,230
